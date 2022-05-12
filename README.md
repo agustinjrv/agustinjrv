@@ -1,4 +1,4 @@
-### Languages and Tools :raised_hands:
+### Lenguajes y herramientas :raised_hands:
 
 <div>
   <a href="https://angular.io/"><img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
