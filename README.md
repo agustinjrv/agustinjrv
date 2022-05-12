@@ -16,8 +16,8 @@
 
 <h1></h1>
 
-### Contact :iphone:
-[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]
+### Contacto :iphone:
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/000000/external-linkedin-social-media-justicon-lineal-color-justicon.png" />][linkedin]LinkedIn
 <br>
 
 <h1></h1>
