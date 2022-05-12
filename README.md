@@ -24,7 +24,6 @@
 
 ### Info :call_me_hand:
 <p align="center">
-  <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=agustinrv&show_icons=true&theme=tokyonight" />
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinrv&layout=compact&theme=tokyonight" />
 </p>
 <p align="center">
