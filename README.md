@@ -22,7 +22,6 @@
 
 <h1></h1>
 
-### Info :call_me_hand:
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinrv&layout=compact&theme=tokyonight" />
 </p>
