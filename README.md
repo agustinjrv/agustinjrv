@@ -26,8 +26,6 @@
 <p align="center">
   <img align="center" alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agustinrv&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img align="center" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinrv" />
-</p>
+
 
 [linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
