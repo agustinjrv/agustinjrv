@@ -28,4 +28,4 @@
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/rodolfo-rondon-leon-9665251a1/
+[linkedin]: https://www.linkedin.com/in/agustin-javier-rivola-4007741b5/
